@@ -172,7 +172,7 @@ text-align: left;
   }
 
     .secc{
-      flex-direction: column-reverse;
+      flex-direction: column;
       align-items: center;
       gap: 20px;
 
